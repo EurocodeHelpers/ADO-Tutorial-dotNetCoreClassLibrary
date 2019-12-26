@@ -17,6 +17,7 @@ namespace Tests
             Assert.AreEqual(expected, actual);
         }
 
+        [Test]
         public void SubtractTwoNumbers_Test1()
         {
             int expected = 10;
