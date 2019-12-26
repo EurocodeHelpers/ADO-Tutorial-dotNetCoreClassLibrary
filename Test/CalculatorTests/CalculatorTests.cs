@@ -20,6 +20,7 @@ namespace Tests
         public void SubtractTwoNumbers_Test1()
         {
             int expected = 10;
+            int x = 4;
             int actual = CalculatorLibrary.CalculatorLibrary.SubtractTwoNumbers(25, 15);
             Assert.AreEqual(expected, actual);
         }
