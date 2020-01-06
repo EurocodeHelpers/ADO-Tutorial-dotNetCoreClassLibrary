@@ -42,7 +42,15 @@ steps:
     arguments: '--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)'
     zipAfterPublish: true
 
-#Publish artifact 
+
+#Publish Nuget Package 
+- task: NuGetCommand@2
+  inputs:
+    command: 'pack'
+    packagesToPack: '**/*.csproj'
+    versioningScheme: 'off'
+
+#Push Nuget Package  
 - task: NuGetCommand@2
   inputs:
     command: 'push'
