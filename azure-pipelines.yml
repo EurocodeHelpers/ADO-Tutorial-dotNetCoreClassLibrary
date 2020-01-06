@@ -43,7 +43,10 @@ steps:
     zipAfterPublish: true
 
 #Publish artifact 
-- task: PublishBuildArtifacts@1
-  displayName: 'publish artifacts'
-
+- task: NuGetCommand@2
+  inputs:
+    command: 'push'
+    packagesToPush: '$(Build.ArtifactStagingDirectory)/**/*.nupkg;!$(Build.ArtifactStagingDirectory)/**/*.symbols.nupkg'
+    nuGetFeedType: 'internal'
+    publishVstsFeed: '9f056d1d-2e21-4527-9787-fc07891be45c/7824c701-8c73-4b31-afa5-b33a52a0d028'
 
