@@ -12,3 +12,6 @@ C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\ob
 C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\obj\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.AssemblyInfo.cs
 C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\obj\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.dll
 C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\obj\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.pdb
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\bin\Debug\netcoreapp2.2\MottMacdonald.Core.dll
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\bin\Debug\netcoreapp2.2\MottMacdonald.Core.pdb
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\obj\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.csproj.CopyComplete

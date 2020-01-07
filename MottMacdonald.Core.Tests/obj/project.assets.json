@@ -1645,6 +1645,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "MottMacdonald.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MottMacdonald.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MottMacdonald.Core.dll": {}
+        }
       }
     }
   },
@@ -5739,12 +5749,18 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "MottMacdonald.Core/1.0.0": {
+      "type": "project",
+      "path": "../MottMacdonald.Core/MottMacdonald.Core.csproj",
+      "msbuildProject": "../MottMacdonald.Core/MottMacdonald.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
+      "MottMacdonald.Core >= 1.0.0",
       "NUnit3TestAdapter >= 3.11.0",
       "nunit >= 3.11.0"
     ]
@@ -5776,7 +5792,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\cox87208\\Desktop\\git\\MMAzureDevOpsArtifact-\\MottMacdonald.Core\\MottMacdonald.Core.csproj": {
+              "projectPath": "C:\\Users\\cox87208\\Desktop\\git\\MMAzureDevOpsArtifact-\\MottMacdonald.Core\\MottMacdonald.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
