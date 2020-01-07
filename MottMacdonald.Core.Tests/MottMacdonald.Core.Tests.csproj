@@ -10,10 +10,7 @@
     <PackageReference Include="nunit" Version="3.11.0" />
     <PackageReference Include="NUnit3TestAdapter" Version="3.11.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\MottMacdonald.Core\MottMacdonald.Core.csproj" />
+    <ProjectReference Include="..\MottMacdonald.Core.\*.csproj" />
   </ItemGroup>
 
 </Project>
