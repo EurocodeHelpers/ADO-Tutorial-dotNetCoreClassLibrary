@@ -1,0 +1,14 @@
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\bin\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.deps.json
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\bin\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.runtimeconfig.json
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\bin\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.runtimeconfig.dev.json
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\bin\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.dll
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\bin\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.pdb
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\obj\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.csprojAssemblyReference.cache
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\obj\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\obj\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.AssemblyInfoInputs.cache
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\obj\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.AssemblyInfo.cs
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\obj\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.dll
+C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core.Tests\obj\Debug\netcoreapp2.2\MottMacdonald.Core.Tests.pdb
