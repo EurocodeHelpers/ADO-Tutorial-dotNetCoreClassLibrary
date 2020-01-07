@@ -27,7 +27,7 @@ steps:
   inputs:
     command: build
     projects: '**/*.csproj'
-    arguments: '--configuration Release' # Update this to match your need
+    arguments: '--configuration $(buildConfiguration)' 
 
 #Run Unit Tests
 - task: DotNetCoreCLI@2
