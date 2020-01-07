@@ -22,12 +22,8 @@ steps:
     restoreSolution: '$(solution)'
 
 #Build project. 
-- task: DotNetCoreCLI@2
-  displayName: Build
-  inputs:
-    command: build
-    projects: '**/*.csproj'
-    arguments: '--configuration Release' # Update this to match your need
+- script: dotnet build --configuration $(buildConfiguration)
+  displayName: 'dotnet build $(buildConfiguration)'
 
 #Run Unit Tests
 - task: DotNetCoreCLI@2
