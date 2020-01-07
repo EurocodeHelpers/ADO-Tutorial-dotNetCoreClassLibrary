@@ -27,12 +27,15 @@ steps:
   displayName: 'dotnet build $(buildConfiguration)'
 
 #Run Unit Tests
-#- task: DotNetCoreCLI@2
-#  inputs: 
-#    command: test
-#    projects: '*.Tests/*.csproj'
-#    arguments: '--configuration $(buildConfiguration)'
-
 - script: dotnet test --configuration $(buildConfiguration)
   displayName: 'dotnet test $(buildConfiguration)'
 
+#Pack to a nuget package
+- task: DotNetCoreCLI@2
+  displayName: "dotnet pack"
+  inputs:
+    command: 'pack'
+    arguments: '--configuration $(buildConfiguration)'
+    packagesToPack: 'MottMacdonald.Core/*.csproj'
+    nobuild: true
+    versioningScheme: 'off'
