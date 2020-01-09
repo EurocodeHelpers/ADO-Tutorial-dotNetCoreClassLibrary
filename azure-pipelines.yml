@@ -40,7 +40,7 @@ steps:
     nobuild: byBuildNumber
     versioningScheme: 'off'
 
-#Push nuget package to feed. 
+#Push nuget package to feed. ###
 - task: NuGetCommand@2
   inputs:
     command: 'push'
