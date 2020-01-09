@@ -36,7 +36,7 @@ steps:
   inputs:
     command: 'pack'
     arguments: '--configuration $(buildConfiguration)'
-    packagesToPack: 'CommonLib/CommonLib.csproj'
+    packagesToPack: 'MottMacdonald.Core/*.csproj'
     nobuild: true
     versioningScheme: 'off'
 
