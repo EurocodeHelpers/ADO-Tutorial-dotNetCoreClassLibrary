@@ -1,3 +1,3 @@
 # ADO-Tutorial-dotNetCoreClassLibrary
 
-A sample project that uses CI/DI to Azure Devops and uploaded as a Nuget Package 
+A simple .NET core class library that has been configured via Azure DevOps to be uploaded as a NuGet artifact. 
