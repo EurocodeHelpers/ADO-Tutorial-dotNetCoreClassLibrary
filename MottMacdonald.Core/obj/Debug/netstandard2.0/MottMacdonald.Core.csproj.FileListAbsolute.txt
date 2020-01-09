@@ -7,3 +7,12 @@ C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core\obj\Debu
 C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core\obj\Debug\netstandard2.0\MottMacdonald.Core.AssemblyInfo.cs
 C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core\obj\Debug\netstandard2.0\MottMacdonald.Core.dll
 C:\Users\cox87208\Desktop\git\MMAzureDevOpsArtifact-\MottMacdonald.Core\obj\Debug\netstandard2.0\MottMacdonald.Core.pdb
+C:\Users\cox87208\Desktop\git\ADO-Tutorial-dotNetCoreClassLibrary\MottMacdonald.Core\bin\Debug\netstandard2.0\MottMacdonald.Core.deps.json
+C:\Users\cox87208\Desktop\git\ADO-Tutorial-dotNetCoreClassLibrary\MottMacdonald.Core\bin\Debug\netstandard2.0\MottMacdonald.Core.dll
+C:\Users\cox87208\Desktop\git\ADO-Tutorial-dotNetCoreClassLibrary\MottMacdonald.Core\bin\Debug\netstandard2.0\MottMacdonald.Core.pdb
+C:\Users\cox87208\Desktop\git\ADO-Tutorial-dotNetCoreClassLibrary\MottMacdonald.Core\obj\Debug\netstandard2.0\MottMacdonald.Core.csprojAssemblyReference.cache
+C:\Users\cox87208\Desktop\git\ADO-Tutorial-dotNetCoreClassLibrary\MottMacdonald.Core\obj\Debug\netstandard2.0\MottMacdonald.Core.csproj.CoreCompileInputs.cache
+C:\Users\cox87208\Desktop\git\ADO-Tutorial-dotNetCoreClassLibrary\MottMacdonald.Core\obj\Debug\netstandard2.0\MottMacdonald.Core.AssemblyInfoInputs.cache
+C:\Users\cox87208\Desktop\git\ADO-Tutorial-dotNetCoreClassLibrary\MottMacdonald.Core\obj\Debug\netstandard2.0\MottMacdonald.Core.AssemblyInfo.cs
+C:\Users\cox87208\Desktop\git\ADO-Tutorial-dotNetCoreClassLibrary\MottMacdonald.Core\obj\Debug\netstandard2.0\MottMacdonald.Core.dll
+C:\Users\cox87208\Desktop\git\ADO-Tutorial-dotNetCoreClassLibrary\MottMacdonald.Core\obj\Debug\netstandard2.0\MottMacdonald.Core.pdb

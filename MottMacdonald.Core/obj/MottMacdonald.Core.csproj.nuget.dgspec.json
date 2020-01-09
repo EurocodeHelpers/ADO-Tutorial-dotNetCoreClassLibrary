@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cox87208\\Desktop\\git\\MMAzureDevOpsArtifact-\\MottMacdonald.Core\\MottMacdonald.Core.csproj": {}
+    "C:\\Users\\cox87208\\Desktop\\git\\ADO-Tutorial-dotNetCoreClassLibrary\\MottMacdonald.Core\\MottMacdonald.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cox87208\\Desktop\\git\\MMAzureDevOpsArtifact-\\MottMacdonald.Core\\MottMacdonald.Core.csproj": {
+    "C:\\Users\\cox87208\\Desktop\\git\\ADO-Tutorial-dotNetCoreClassLibrary\\MottMacdonald.Core\\MottMacdonald.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cox87208\\Desktop\\git\\MMAzureDevOpsArtifact-\\MottMacdonald.Core\\MottMacdonald.Core.csproj",
+        "projectUniqueName": "C:\\Users\\cox87208\\Desktop\\git\\ADO-Tutorial-dotNetCoreClassLibrary\\MottMacdonald.Core\\MottMacdonald.Core.csproj",
         "projectName": "MottMacdonald.Core",
-        "projectPath": "C:\\Users\\cox87208\\Desktop\\git\\MMAzureDevOpsArtifact-\\MottMacdonald.Core\\MottMacdonald.Core.csproj",
+        "projectPath": "C:\\Users\\cox87208\\Desktop\\git\\ADO-Tutorial-dotNetCoreClassLibrary\\MottMacdonald.Core\\MottMacdonald.Core.csproj",
         "packagesPath": "C:\\Users\\cox87208\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cox87208\\Desktop\\git\\MMAzureDevOpsArtifact-\\MottMacdonald.Core\\obj\\",
+        "outputPath": "C:\\Users\\cox87208\\Desktop\\git\\ADO-Tutorial-dotNetCoreClassLibrary\\MottMacdonald.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
