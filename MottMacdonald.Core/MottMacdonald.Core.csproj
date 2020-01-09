@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
      <Version>1.0.0</Version>
      <Authors>Peter Cox</Authors>
      <Description>A sample class library that can be consumed via other C# applications</Description>
