@@ -1,2 +1,3 @@
-# AzureDevOps-.NET-Core-Console-Application
-Deploys a simple calculator console application to Azure Devops 
+# ADO-Tutorial-dotNetCoreClassLibrary
+
+A sample project that uses CI/DI to Azure Devops and uploaded as a Nuget Package 
