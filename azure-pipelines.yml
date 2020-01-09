@@ -41,13 +41,24 @@ steps:
     versioningScheme: 'off'
 
 #Push nuget package to feed. 
-
 - task: NuGetCommand@2
   inputs:
-    command: 'push'
-    packagesToPush: '$(Build.ArtifactStagingDirectory)/**/*.nupkg;!$(Build.ArtifactStagingDirectory)/**/*.symbols.nupkg'
-    nuGetFeedType: 'internal'
-    publishVstsFeed: '4768ba56-4612-49bf-b4ec-a486631ca039/d7726ced-6244-4c4b-8e8e-b4888dca8f85'
+    command: 'restore'
+    restoreSolution: '**/*.sln'
+    feedsToUse: 'select'
     versioningScheme: 'off'
     allowPackageConflicts: true
-#
+    vstsFeed: '4768ba56-4612-49bf-b4ec-a486631ca039/ff60c02a-1784-4109-bed8-1ce25e40e1ae'
+
+
+
+
+#- task: NuGetCommand@2
+#  inputs:
+#    command: 'push'
+#    packagesToPush: '$(Build.ArtifactStagingDirectory)/**/*.nupkg;!$(Build.ArtifactStagingDirectory)/**/*.symbols.nupkg'
+#    nuGetFeedType: 'internal'
+#    publishVstsFeed: '4768ba56-4612-49bf-b4ec-a486631ca039/d7726ced-6244-4c4b-8e8e-b4888dca8f85'
+#    versioningScheme: 'off'
+#    allowPackageConflicts: true
+##
