@@ -37,7 +37,7 @@ steps:
     command: 'pack'
     arguments: '--configuration $(buildConfiguration)'
     packagesToPack: 'MottMacdonald.Core/*.csproj'
-    nobuild: true
+    nobuild: byBuildNumber
     versioningScheme: 'off'
 
 #Push nuget package to feed. 
